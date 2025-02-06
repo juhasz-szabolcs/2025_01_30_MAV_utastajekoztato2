@@ -5,3 +5,15 @@ table {
     font-family: 'Courier New'; /* betűtípus */
     font-size: 30px; /* betűméret */
 }
+
+td { 
+    background-color: rgb(21, 104, 104);
+}
+
+#keses {
+    background-color: rgb(224, 63, 18);
+}
+
+.elso_oszlop{
+    background-color: aqua;
+}
